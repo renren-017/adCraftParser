@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "adcraftai"
+version = "0.1.0"
+description = ""
+authors = ["renren"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+matplotlib = "^3.8.4"
+scikit-learn = "^1.4.2"
+numpy = "^1.26.4"
+jupyter = "^1.0.0"
+selenium = "^4.20.0"
+pydantic = "^2.7.1"
+black = "^24.4.2"
+pydantic-settings = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
