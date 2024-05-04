@@ -41,6 +41,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+webdriver/
+webdriver/chromedriver/
 
 *.mo
 *.pot
@@ -69,3 +71,6 @@ venv.bak/
 dmypy.json
 cython_debug/
 .idea/
+
+alembic.ini
+alembic/

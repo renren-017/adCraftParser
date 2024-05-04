@@ -1,0 +1,140 @@
+2024-05-03 23:09:16 - MyAppLogger - WARNING - Accepting cookies failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007728cc chromedriver + 4368588
+1   chromedriver                        0x000000010076ad60 chromedriver + 4336992
+2   chromedriver                        0x000000010038ec04 chromedriver + 289796
+3   chromedriver                        0x00000001003d0e00 chromedriver + 560640
+4   chromedriver                        0x00000001004095ec chromedriver + 792044
+5   chromedriver                        0x00000001003c5ab4 chromedriver + 514740
+6   chromedriver                        0x00000001003c650c chromedriver + 517388
+7   chromedriver                        0x0000000100736de8 chromedriver + 4124136
+8   chromedriver                        0x000000010073bbd8 chromedriver + 4144088
+9   chromedriver                        0x000000010071c7b0 chromedriver + 4016048
+10  chromedriver                        0x000000010073c508 chromedriver + 4146440
+11  chromedriver                        0x000000010070e264 chromedriver + 3957348
+12  chromedriver                        0x000000010075be50 chromedriver + 4275792
+13  chromedriver                        0x000000010075bfcc chromedriver + 4276172
+14  chromedriver                        0x000000010076a9c0 chromedriver + 4336064
+15  libsystem_pthread.dylib             0x0000000183069034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000183063e3c thread_start + 8
+
+2024-05-03 23:09:16 - MyAppLogger - WARNING - Accepting cookies failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001028328cc chromedriver + 4368588
+1   chromedriver                        0x000000010282ad60 chromedriver + 4336992
+2   chromedriver                        0x000000010244ec04 chromedriver + 289796
+3   chromedriver                        0x0000000102490e00 chromedriver + 560640
+4   chromedriver                        0x00000001024c95ec chromedriver + 792044
+5   chromedriver                        0x0000000102485ab4 chromedriver + 514740
+6   chromedriver                        0x000000010248650c chromedriver + 517388
+7   chromedriver                        0x00000001027f6de8 chromedriver + 4124136
+8   chromedriver                        0x00000001027fbbd8 chromedriver + 4144088
+9   chromedriver                        0x00000001027dc7b0 chromedriver + 4016048
+10  chromedriver                        0x00000001027fc508 chromedriver + 4146440
+11  chromedriver                        0x00000001027ce264 chromedriver + 3957348
+12  chromedriver                        0x000000010281be50 chromedriver + 4275792
+13  chromedriver                        0x000000010281bfcc chromedriver + 4276172
+14  chromedriver                        0x000000010282a9c0 chromedriver + 4336064
+15  libsystem_pthread.dylib             0x0000000183069034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000183063e3c thread_start + 8
+
+2024-05-03 23:09:16 - MyAppLogger - INFO - Gathering image links
+2024-05-03 23:09:16 - MyAppLogger - INFO - Gathering image links
+2024-05-03 23:09:23 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:23 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:25 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:25 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:27 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:27 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:29 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:29 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:31 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:31 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:33 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:33 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:35 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:35 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:37 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:37 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:39 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:39 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:41 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:41 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:09:42 - MyAppLogger - INFO - Google search ended
+2024-05-03 23:09:42 - MyAppLogger - INFO - Google search ended
+2024-05-03 23:09:42 - MyAppLogger - INFO - Saving image, please wait...
+2024-05-03 23:09:42 - MyAppLogger - INFO - Saving image, please wait...
+2024-05-03 23:09:42 - MyAppLogger - INFO - --------------------------------------------------
+2024-05-03 23:09:42 - MyAppLogger - INFO - --------------------------------------------------
+2024-05-03 23:09:42 - MyAppLogger - INFO - Downloads completed. Please note that some photos were not downloaded as they were not in the correct format (e.g. jpg, jpeg, png)
+2024-05-03 23:09:42 - MyAppLogger - INFO - Downloads completed. Please note that some photos were not downloaded as they were not in the correct format (e.g. jpg, jpeg, png)
+2024-05-03 23:10:22 - MyAppLogger - WARNING - Accepting cookies failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104ada8cc chromedriver + 4368588
+1   chromedriver                        0x0000000104ad2d60 chromedriver + 4336992
+2   chromedriver                        0x00000001046f6c04 chromedriver + 289796
+3   chromedriver                        0x0000000104738e00 chromedriver + 560640
+4   chromedriver                        0x00000001047715ec chromedriver + 792044
+5   chromedriver                        0x000000010472dab4 chromedriver + 514740
+6   chromedriver                        0x000000010472e50c chromedriver + 517388
+7   chromedriver                        0x0000000104a9ede8 chromedriver + 4124136
+8   chromedriver                        0x0000000104aa3bd8 chromedriver + 4144088
+9   chromedriver                        0x0000000104a847b0 chromedriver + 4016048
+10  chromedriver                        0x0000000104aa4508 chromedriver + 4146440
+11  chromedriver                        0x0000000104a76264 chromedriver + 3957348
+12  chromedriver                        0x0000000104ac3e50 chromedriver + 4275792
+13  chromedriver                        0x0000000104ac3fcc chromedriver + 4276172
+14  chromedriver                        0x0000000104ad29c0 chromedriver + 4336064
+15  libsystem_pthread.dylib             0x0000000183069034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000183063e3c thread_start + 8
+
+2024-05-03 23:10:22 - MyAppLogger - INFO - Gathering image links
+2024-05-03 23:10:23 - MyAppLogger - WARNING - Accepting cookies failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001014268cc chromedriver + 4368588
+1   chromedriver                        0x000000010141ed60 chromedriver + 4336992
+2   chromedriver                        0x0000000101042c04 chromedriver + 289796
+3   chromedriver                        0x0000000101084e00 chromedriver + 560640
+4   chromedriver                        0x00000001010bd5ec chromedriver + 792044
+5   chromedriver                        0x0000000101079ab4 chromedriver + 514740
+6   chromedriver                        0x000000010107a50c chromedriver + 517388
+7   chromedriver                        0x00000001013eade8 chromedriver + 4124136
+8   chromedriver                        0x00000001013efbd8 chromedriver + 4144088
+9   chromedriver                        0x00000001013d07b0 chromedriver + 4016048
+10  chromedriver                        0x00000001013f0508 chromedriver + 4146440
+11  chromedriver                        0x00000001013c2264 chromedriver + 3957348
+12  chromedriver                        0x000000010140fe50 chromedriver + 4275792
+13  chromedriver                        0x000000010140ffcc chromedriver + 4276172
+14  chromedriver                        0x000000010141e9c0 chromedriver + 4336064
+15  libsystem_pthread.dylib             0x0000000183069034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000183063e3c thread_start + 8
+
+2024-05-03 23:10:23 - MyAppLogger - INFO - Gathering image links
+2024-05-03 23:10:29 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:29 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:31 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:31 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:33 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:33 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:35 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:35 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:37 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:37 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:39 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:39 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:41 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:41 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:43 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:43 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:45 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:45 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:47 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:47 - MyAppLogger - INFO - Unable to get link
+2024-05-03 23:10:49 - MyAppLogger - INFO - Google search ended
+2024-05-03 23:10:49 - MyAppLogger - INFO - Saving image, please wait...
+2024-05-03 23:10:49 - MyAppLogger - INFO - --------------------------------------------------
+2024-05-03 23:10:49 - MyAppLogger - INFO - Downloads completed. Please note that some photos were not downloaded as they were not in the correct format (e.g. jpg, jpeg, png)
+2024-05-03 23:10:49 - MyAppLogger - INFO - Google search ended
+2024-05-03 23:10:49 - MyAppLogger - INFO - Saving image, please wait...
+2024-05-03 23:10:49 - MyAppLogger - INFO - --------------------------------------------------
+2024-05-03 23:10:49 - MyAppLogger - INFO - Downloads completed. Please note that some photos were not downloaded as they were not in the correct format (e.g. jpg, jpeg, png)

@@ -13,6 +13,11 @@ class Settings(BaseSettings):
 
     GOOGLE_SEARCH_URL: str
 
+    POSTGRES_DB: str
+    POSTGRES_USER: str
+    POSTGRES_PASSWORD: str
+    POSTGRES_URL: str
+
     class Config:
         env_file = ".env"
 
